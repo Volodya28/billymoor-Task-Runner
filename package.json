@@ -1,0 +1,20 @@
+{
+  "name": "billymoor Task Runner", 
+  "version": "1.0.0", 
+  "description": "by billymoor", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volodya28/billymoor-Task-Runner.git" 
+  },
+  "keywords": [ 
+    "", 
+    "",
+    ""
+  ],
+  "author": "", 
+  "license": "MIT"
+}
